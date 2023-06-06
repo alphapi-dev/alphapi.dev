@@ -16,10 +16,10 @@
 title: Alphapi - The Human-Readable Base-16 System
 email: paul@alphapi.dev
 description: >- # this means to ignore newlines until "baseurl:"
-Alphapi is an innovative base-16 numbering system that replaces traditional hexadecimal digits with the letters 'a' to 'p', 
-providing a more human-readable, compact representation for large numbers and symbolic identifiers. 
-This open-source project aims to develop and promote Alphapi, offering documentation, conversion tools, coding libraries, and a community platform for users and contributors.
-Perfect for developers, data scientists, and researchers looking to enhance data representation in their projects.
+  Alphapi is an innovative base-16 numbering system that replaces traditional hexadecimal digits with the letters 'a' to 'p', 
+  providing a more human-readable, compact representation for large numbers and symbolic identifiers. 
+  This open-source project aims to develop and promote Alphapi, offering documentation, conversion tools, coding libraries, and a community platform for users and contributors.
+  Perfect for developers, data scientists, and researchers looking to enhance data representation in their projects.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.alphapi.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: alphapid
