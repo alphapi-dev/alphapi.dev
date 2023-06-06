@@ -13,16 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: Alphapi - The Human-Readable Base-16 System
+email: paul@alphapi.dev
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+Alphapi is an innovative base-16 numbering system that replaces traditional hexadecimal digits with the letters 'a' to 'p', 
+providing a more human-readable, compact representation for large numbers and symbolic identifiers. 
+This open-source project aims to develop and promote Alphapi, offering documentation, conversion tools, coding libraries, and a community platform for users and contributors.
+Perfect for developers, data scientists, and researchers looking to enhance data representation in their projects.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://www.alphapi.dev" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: alphapid
+github_username:  alphapi-dev
 
 # Build settings
 markdown: kramdown
